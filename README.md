@@ -1,11 +1,8 @@
-## `tmux`
-> minimal tmux configuration
-
-I'd recommend you to never copy/paste or blindly use someone else's configuration, tmux is a powerful tool and configuring it yourself would be more appropriate way to learn it. This repository contains my personal configuration that I drafted with my limited experience with tmux. 
+## Original Repo [here](https://raw.githubusercontent.com/umayr/tmux)
 
 ### Installation
 ```bash
-   $ bash <(curl -s https://raw.githubusercontent.com/umayr/tmux/master/init.sh)
+bash <(curl -s https://raw.githubusercontent.com/toiq/tmux/master/init.sh)
 ```
 
 ### Key Bindings
