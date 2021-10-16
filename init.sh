@@ -13,7 +13,7 @@ function check ()
 check git --version
 check tmux -V
 
-git clone https://github.com/umayr/tmux ~/.tmux
+git clone https://github.com/toiq/tmux ~/.tmux
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 
 ln -s ~/.tmux/.tmux.conf .
